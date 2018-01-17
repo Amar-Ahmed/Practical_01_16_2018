@@ -9,6 +9,7 @@
     tools:context="com.example.android.loopactivity.LoopActivity">
 
     <TextView
+        android:id="@+id/status_textview"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"

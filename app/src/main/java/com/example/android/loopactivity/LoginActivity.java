@@ -1,8 +1,14 @@
 package com.example.android.loopactivity;
 
+
+import android.support.v7.app.AppCompatActivity;
+
+
 /**
- * Created by C4Q on 1/16/18.
+ * Created by Amar on 1/16/18.
  */
 
-public class LoginActivity {
+public class LoginActivity extends AppCompatActivity{
+
+
 }
