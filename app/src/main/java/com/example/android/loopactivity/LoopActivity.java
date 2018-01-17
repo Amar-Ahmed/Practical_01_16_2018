@@ -2,8 +2,7 @@ package com.example.android.loopactivity;
 
 import android.content.Intent;
 import android.os.AsyncTask;
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
+
 import android.widget.TextView;
 
 public class LoopActivity extends AppCompatActivity {
